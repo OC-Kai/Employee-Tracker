@@ -31,3 +31,6 @@ Make sure the prompt appears in the terminal after running node server.js.
 # Questions:
 For further questions, please contact at [github.com/OC-Kai](https://github.com/OC-Kai) or <a href = "mailto:ArthurJStone96@gmail.com">ArthurJStone96@gmail.com</a>.
 
+Link to demonstration:
+
+chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/bfd030f5-1da3-4559-ybe4-5922af1dd3b4
