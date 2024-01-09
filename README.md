@@ -33,4 +33,4 @@ For further questions, please contact at [github.com/OC-Kai](https://github.com/
 
 Link to demonstration:
 
-chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/app.html#/files/bfd030f5-1da3-4559-ybe4-5922af1dd3b4
+https://drive.google.com/file/d/17v0IyRist1CBAd5a3edof6gcUgdTj_ZW/view
